@@ -4,7 +4,7 @@
 
 Flatmarket is a free, open source e-commerce platform for static websites. It is reliable, secure, and inexpensive to operate.
 
-The platform uses [Stripe](https://stripe.com/) for payment processing and is built on the latest web technologies like [hapi](http://hapijs.com/), [React](http://facebook.github.io/react/), and [Webpack](http://webpack.github.io/).
+The platform uses [Stripe](https://stripe.com/) for payment processing and is built on the latest web technologies like [hapi](http://hapijs.com/), [React](http://facebook.github.io/react/), and [Webpack](http://webpack.github.io/). It comes with integrations for several cloud platforms including [AWS Lambda](https://aws.amazon.com/lambda/) and [Heroku](https://www.heroku.com/).
 
 At its core is a batteries-included CLI to help you get started quickly. Modules are also [packaged individually](#) so you can customize your rig.
 
